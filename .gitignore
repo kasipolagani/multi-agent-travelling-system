@@ -1,0 +1,10 @@
+agent_env
+.env
+
+.idea
+
+test.py
+test_searcher.py
+
+__pycache__
+*.pyc
